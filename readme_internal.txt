@@ -5,6 +5,6 @@
 5-cd firstapp
 6-code .
 7-npm start
-*******************usedullsites
+*******************usefullsites
 https://react-bootstrap.netlify.app/components/cards/#rb-docs-content******get React-Bootstrap
 https://www.wallpaperflare.com/search?wallpaper=reactJS******images
