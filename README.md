@@ -14,3 +14,5 @@ This is a simple React app that showcases the use of functional components to di
 ## Conclusion
 
 The Profile App is a simple application built using React and Create React App. It showcases the use of functional components and JSX in React. The main component `App.js` is located in the `src` folder and the profile components `ProfilePhoto.js`, `FullName.js`, and `Address.js` are located in the `src/Component/Profile` folder. This app provides a clear demonstration of how to create and use components in React.
+---
+Don't forget to star this repository ⭐️ after you've finished the project. Your support is greatly appreciated!
