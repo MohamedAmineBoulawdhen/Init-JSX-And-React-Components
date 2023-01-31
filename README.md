@@ -3,7 +3,7 @@ This is a simple React app that showcases the use of functional components to di
 
 ## Instructions
 - Create a project using `create-react-app`(Example 1- `npx create-react-app my-app` 2- `cd my-app` 3-`code .`).
-- Create `App.js` file in src folder and use it as a root component for your React app.
+- Create an `App.js` file in the src folder and use it as a root component for your React app.
 - Create a profile folder (path: src/Component/Profile).
 - Inside the Profile folder, create three components: `ProfilePhoto.js`, `FullName.js`, and `Address.js`.
 - `ProfilePhoto.js`: a functional component that returns a photo of your profile.
