@@ -14,5 +14,4 @@ This is a simple React app that showcases the use of functional components to di
 ## Conclusion
 
 In this project, you have learned how to create React components and use JSX to render components in your app. The project provides a basic structure for creating a profile, but feel free to modify and expand it as needed.
----
-Don't forget to star this repository ⭐️ after you've finished the project. Your support is greatly appreciated!
+
